@@ -1,5 +1,9 @@
 # **HTML Text Analysis and Visualization**
 
+
+![Uploading image.png…]()
+
+
 This repository contains Python code to extract text from a given HTML URL, preprocess the text data, and perform analysis and visualization tasks such as word cloud generation, frequency analysis, and scatter plot visualization of word frequencies. The analysis helps in understanding the key themes and insights from the text data.
 
 ## **Table of Contents**
