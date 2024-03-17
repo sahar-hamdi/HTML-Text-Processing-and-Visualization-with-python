@@ -1,7 +1,11 @@
 # **HTML Text Analysis and Visualization**
 
 
-![Uploading image.png…]()
+![image](https://github.com/sahar-hamdi/HTML-Text-Processing-and-Visualization-with-python/assets/93557883/32937b60-61a5-4d30-af6f-410d9cba6b39)
+
+
+
+
 
 
 This repository contains Python code to extract text from a given HTML URL, preprocess the text data, and perform analysis and visualization tasks such as word cloud generation, frequency analysis, and scatter plot visualization of word frequencies. The analysis helps in understanding the key themes and insights from the text data.
