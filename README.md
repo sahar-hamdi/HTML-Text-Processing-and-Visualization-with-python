@@ -4,10 +4,10 @@ This repository contains Python code to extract text from a given HTML URL, prep
 
 ## **Table of Contents**
 
-### [Introduction](#introduction)
-### [Usage](#usage)
-### [Features](#features)
-### [Examples](#examples)
+[Introduction](#introduction)
+[Usage](#usage)
+[Features](#features)
+[Examples](#examples)
 
 
 
